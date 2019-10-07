@@ -1,0 +1,14 @@
+insert into book (author, isbn, title) values ('Dan Brown', 'ISBN-67859-90859', 'Digital Fortress');
+insert into book (author, isbn, title) values ('Dan Brown', 'ISBN-67859-90859', 'Digital Fortress');
+insert into book (author, isbn, title) values ('Dan Brown', 'ISBN-67859-90859', 'Digital Fortress');
+insert into book (author, isbn, title) values ('Dan Brown', 'ISBN-67859-90859', 'Digital Fortress');
+insert into book (author, isbn, title) values ('Dan Brown', 'ISBN-67859-90859', 'Digital Fortress');
+insert into book (author, isbn, title) values ('Mario Puzo', 'ISBN-67859-90859', 'Digital Fortress');
+insert into book (author, isbn, title) values ('Dan Brown', 'ISBN-67859-90859', 'Digital Fortress');
+insert into book (author, isbn, title) values ('Dan Brown', 'ISBN-67859-90859', 'Digital Fortress');
+insert into book (author, isbn, title) values ('Dan Brown', 'ISBN-67859-90859', 'Digital Fortress');
+insert into book (author, isbn, title) values ('Dan Brown', 'ISBN-67859-90859', 'Digital Fortress');
+insert into book (author, isbn, title) values ('Dan Brown', 'ISBN-67859-90859', 'Digital Fortress');
+insert into book (author, isbn, title) values ('Dan Brown', 'ISBN-67859-90859', 'Digital Fortress');
+insert into book (author, isbn, title) values ('Dan Brown', 'ISBN-67859-90859', 'Digital Fortress');
+insert into book (author, isbn, title) values ('Dan Brown', 'ISBN-67859-90859', 'Digital Fortress');
